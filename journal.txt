@@ -1,3 +1,4 @@
+20250906 Jour 3 et jour 4
 20250903 Jour 2 terminé Utiliser un module natif (fs).installer et utiliser un module externe (lodash),
 	 à quoi servent package.json et node_modules
 20250901 Jour 1 terminé
