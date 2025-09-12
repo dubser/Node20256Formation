@@ -1,3 +1,4 @@
+20250912 Jour 6 Étude et examen approfondi de API express.
 20250911 Jour 6 Début d'étude de API express.
 20250910 Jour 5 exercices terminés 11 sept
 20250910 Jour 4 exercices terminés 10 sept 2025

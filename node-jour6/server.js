@@ -14,7 +14,8 @@ const users = [
 
 // Route API → JSON
 app.get('/api/users', (req, res) => {
-  res.json(users);
+res.json(users);
+//res.json([ { id: 1, name: 'Alice', age: 25 }]  ) ;
 });
 
 app.listen(PORT, () => {

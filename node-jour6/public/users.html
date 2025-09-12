@@ -14,14 +14,21 @@
     // par l'usager.
     fetch('/api/users')
       .then(res => res.json())
+      
       .then(data => {
         const list = document.getElementById('users-list');
         data.forEach(user => {
           const li = document.createElement('li');
           li.textContent = `${user.name} (${user.age} ans)`;
           list.appendChild(li);
-        });
+        }); 
+      
+     /* const li= document.createElement('li');  
+      li.textContent = "Toto";
+      list.appendChild(li);*/
+
       });
+    
   </script>
 </body>
 </html>
